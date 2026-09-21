@@ -1,0 +1,8 @@
+train: C:\Users\prera\OneDrive\Desktop\datasets ml\dataset_combined\train\images
+val: C:\Users\prera\OneDrive\Desktop\datasets ml\dataset_combined\valid\images
+test: C:\Users\prera\OneDrive\Desktop\datasets ml\dataset_combined\test\images
+nc: 3
+names:
+- person
+- weapon
+- umbrella
